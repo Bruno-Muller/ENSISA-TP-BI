@@ -88,7 +88,6 @@ public class Controller implements ActionListener, ItemListener, ListSelectionLi
 			frame.setPreferredSize(new Dimension(300, 600));
 			frame.pack();
 			frame.setVisible(true);	
-			// test
 		}
 		
 	}
